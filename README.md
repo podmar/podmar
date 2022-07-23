@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey traveller! 👋
 
-<!--
-**podmar/podmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### about me
+:climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
 
-Here are some ideas to get you started:
+###### :woman_mechanic: currently working on 
+a collaborative project with @linablum: [codeconnect] (https://github.com/ma-lina/codeconnect)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### 🌱 currently learning 
+typescript
+
+###### :handshake: looking to collaborate on 
+projects around climbing / bouldering, community building, healthy lifestyle
+
+###### :genie_woman: can help with 
+interview preparations and job search
+
+###### :writing_hand: email me at marta.podziewska@gmail.com
+
+[^note]: :eyes: The blonde on my avatar pic does not actually code, she's got 4 left paws and mosly resorts to nosing the keyboard when she wants dinner. Still she claims she's good with css :woman_shrugging:
