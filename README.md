@@ -1,20 +1,15 @@
 ### Welcome traveller! 👋
 
-#### about me
-:climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
+**about me** | :climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
 
-#### :woman_mechanic: currently working on 
-a collaborative project with @linablum: [codeconnect](https://github.com/ma-lina/codeconnect)
+**:woman_mechanic: currently working on** | a collaborative project with @linablum: [codeconnect](https://github.com/ma-lina/codeconnect)
 
-#### 🌱 currently learning 
-typescript
+**🌱 currently learning** | typescript
 
-#### :handshake: looking to collaborate on 
-projects around climbing / bouldering, community building, healthy lifestyle
+**:handshake: looking to collaborate on** | projects around climbing / bouldering, community building, healthy lifestyle
 
-#### :genie_woman: can help with 
-interview preparations and job search
+**:genie_woman: can help with** | interview preparations and job search
 
-#### :writing_hand: email me at marta.podziewska@gmail.com
+**:writing_hand: email me at marta.podziewska@gmail.com**
 
 :eyes: The blonde on my avatar pic does not actually code, she's got 4 left paws and mosly resorts to nosing the keyboard when she wants dinner. Still she claims she's good with css :woman_shrugging:
