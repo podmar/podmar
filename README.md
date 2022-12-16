@@ -4,9 +4,9 @@
 
 **:woman_mechanic: currently working on** | a collaborative project with @linablum: [codeconnect](https://github.com/ma-lina/codeconnect)
 
-**🌱 currently learning** | data structures and algorithms | Django | SQL | Golang
+**🌱 currently learning** | Django | data structures and algorithms | SQL | Go
 
-**:handshake: looking to collaborate on** | projects around climbing / bouldering, community building, healthy lifestyle
+**:handshake: looking to collaborate on** | projects around climbing & bouldering, community building, healthy lifestyle
 
 **:genie_woman: can help with** | interview preparations and job search
 
