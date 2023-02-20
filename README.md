@@ -2,9 +2,9 @@
 
 **about me** | :climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
 
-**:woman_mechanic: currently working on** | a collaborative project with @linablum: [codeconnect](https://github.com/ma-lina/codeconnect)
+**:woman_mechanic: currently working on** | a pet React.js project [Q-counter](https://github.com/podmar/Q-counter)
 
-**🌱 currently learning** | Django | data structures and algorithms | SQL | Go
+**🌱 currently learning** | Next.js | Bash | Typescript
 
 **:handshake: looking to collaborate on** | projects around climbing & bouldering, community building, healthy lifestyle
 
