@@ -2,9 +2,7 @@
 
 **about me** | :climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
 
-**:woman_mechanic: currently working on** | a pet React.js project [Q-counter](https://github.com/podmar/Q-counter)
-
-**🌱 currently learning** | Next.js | Bash | Typescript
+**🌱 currently learning** | FastApi
 
 **:handshake: looking to collaborate on** | projects around climbing & bouldering, community building, healthy lifestyle
 
