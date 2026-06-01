@@ -2,11 +2,13 @@
 
 **about me** | :climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
 
-**🌱 currently learning** | FastApi
+**🌱 currently learning** | Python · FastAPI · shell 
 
-**:handshake: looking to collaborate on** | projects around climbing & bouldering, community building, healthy lifestyle
+**🔨 currently building** | Homik — a pantry tracker
 
-**:genie_woman: can help with** | interview preparations and job search
+**:handshake: looking to collaborate on** | backend projects, developer tooling, CLI projects, anything with interesting internal logic — or climbing apps
+
+**:genie_woman: background in** | full-stack development · React · Firebase · TypeScript · recruitment
 
 **:writing_hand: email me at marta.podziewska@gmail.com**
 
