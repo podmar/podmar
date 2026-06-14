@@ -1,15 +1,11 @@
-### Welcome traveller! 👋
-
 **about me** | :climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
 
-**🌱 currently learning** | Python · FastAPI · shell 
+**currently building** | Homik (link) — household inventory API · FastAPI · SQLModel · PostgreSQL
 
-**🔨 currently building** | Homik — a pantry tracker
+**looking to collaborate on** | | backend projects, developer tooling, CLI projects, anything with interesting internal logic — or climbing apps
 
-**:handshake: looking to collaborate on** | backend projects, developer tooling, CLI projects, anything with interesting internal logic — or climbing apps
+**background in** | full-stack development · React · Firebase · TypeScript · recruitment
 
-**:genie_woman: background in** | full-stack development · React · Firebase · TypeScript · recruitment
+**email | marta.podziewska@gmail.com**
 
-**:writing_hand: email me at marta.podziewska@gmail.com**
-
-:eyes: The blonde on my avatar pic does not actually code, she's got 4 left paws and mosly resorts to nosing the keyboard when she wants dinner. Still she claims she's good with css :woman_shrugging:
+The blonde on my avatar pic does not actually code, she's got 4 left paws and mosly resorts to nosing the keyboard when she wants dinner. Still she claims she's good with css :woman_shrugging:
