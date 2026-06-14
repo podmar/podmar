@@ -1,6 +1,6 @@
 **about me** | :climbing_woman: :woman_technologist: :dog2: :woman_cook: :thread: :dancer:
 
-**currently building** | Homik (link) — household inventory API · FastAPI · SQLModel · PostgreSQL
+**currently building** | [Homik](https://github.com/podmar/homik) — household inventory API · FastAPI · SQLModel · PostgreSQL
 
 **looking to collaborate on** | | backend projects, developer tooling, CLI projects, anything with interesting internal logic — or climbing apps
 
